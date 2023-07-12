@@ -1,0 +1,10 @@
+file_format: "1"
+id: dactyl_manuform_4x5_3
+name: Dactyl 4x5_3
+type: shield
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - dactyl_manuform_4x5_3_left
+  - dactyl_manuform_4x5_3_right
